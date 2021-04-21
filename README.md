@@ -14,21 +14,21 @@ CPGL - Cross Platform Game Launcher.
 
 - Недосекина Т. А. 
 
-  Ссылка на [ВКонтакте](https://vk.com/titoto0), [Профиль гит](). Почта:
+  Ссылка на [ВКонтакте](https://vk.com/titoto0), [профиль гит](). Почта:
 
 
 - Петренко А.А. 
 
-  Ссылка на [ВКонтакте](https://vk.com/sentonik), [Профиль гит](https://github.com/PierSent). Почта: sa_sha2000@mail.ru
+  Ссылка на [ВКонтакте](https://vk.com/sentonik), [профиль гит](https://github.com/PierSent). Почта: sa_sha2000@mail.ru
 
 
 - Толстых С. С.
 
-  Ссылка на [ВКонтакте](https://vk.com/ssss1902), [Профиль гит](). Почта:
+  Ссылка на [ВКонтакте](https://vk.com/ssss1902), [профиль гит](). Почта:
 
 
 - Усвяцов А. Д.
 
-  Ссылка на [ВКонтакте](https://vk.com/artyd1), [Профиль гит](). Почта:
+  Ссылка на [ВКонтакте](https://vk.com/artyd1), [профиль гит](). Почта:
 
 ###
