@@ -12,18 +12,18 @@ CPGL - Cross Platform Game Launcher
 
 - Петренко А.А. 
 
-  Ссылка на [ВК](https://vk.com/sentonik), [Профиль гит](https://github.com/PierSent)
+  Ссылка на [ВКонтакте](https://vk.com/sentonik), [Профиль гит](https://github.com/PierSent)
 
 
 
 - Толстых С. С.
 
-  Ссылка на [ВК](https://vk.com/ssss1902), [Профиль гит]()
+  Ссылка на [ВКонтакте](https://vk.com/ssss1902), [Профиль гит]()
 
 
 
 - Усвяцов А. Д.
 
-  Ссылка на [ВК](https://vk.com/artyd1), [Профиль гит]()
+  Ссылка на [ВКонтакте](https://vk.com/artyd1), [Профиль гит]()
 
 ###
