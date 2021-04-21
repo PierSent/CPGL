@@ -1,7 +1,8 @@
 # Репозиторий КПИЛ
 
-КПИЛ - КроссПлатформенный игровой лаунчер
-CPGL - Cross Platform Game Launcher
+КПИЛ - КроссПлатформенный игровой лаунчер.
+
+CPGL - Cross Platform Game Launcher.
 
 
 ## Описание проекта
@@ -13,24 +14,21 @@ CPGL - Cross Platform Game Launcher
 
 - Недосекина Т. А. 
 
-  Ссылка на [ВКонтакте](https://vk.com/titoto0), [Профиль гит]()
-
+  Ссылка на [ВКонтакте](https://vk.com/titoto0), [Профиль гит](). Почта:
 
 
 - Петренко А.А. 
 
-  Ссылка на [ВКонтакте](https://vk.com/sentonik), [Профиль гит](https://github.com/PierSent)
-
+  Ссылка на [ВКонтакте](https://vk.com/sentonik), [Профиль гит](https://github.com/PierSent). Почта: sa_sha2000@mail.ru
 
 
 - Толстых С. С.
 
-  Ссылка на [ВКонтакте](https://vk.com/ssss1902), [Профиль гит]()
-
+  Ссылка на [ВКонтакте](https://vk.com/ssss1902), [Профиль гит](). Почта:
 
 
 - Усвяцов А. Д.
 
-  Ссылка на [ВКонтакте](https://vk.com/artyd1), [Профиль гит]()
+  Ссылка на [ВКонтакте](https://vk.com/artyd1), [Профиль гит](). Почта:
 
 ###
