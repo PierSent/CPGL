@@ -1,0 +1,39 @@
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.exe
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.deps.json
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.runtimeconfig.json
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.runtimeconfig.dev.json
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.dll
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.pdb
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.Menu.resources
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.csproj.GenerateResource.cache
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.AssemblyInfoInputs.cache
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.AssemblyInfo.cs
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.dll
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.pdb
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.genruntimeconfig.cache
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.Properties.Resources.resources
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.VirusGame.resources
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.StartVirus.resources
+C:\Users\Tanya\source\repos\projectVS1\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.Sudoku.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.exe
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.deps.json
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.runtimeconfig.json
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.runtimeconfig.dev.json
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.dll
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\bin\Debug\netcoreapp3.1\labGame.pdb
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.csprojAssemblyReference.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.Menu.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.Properties.Resources.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.StartVirus.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.Sudoku.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.VirusGame.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.csproj.GenerateResource.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.AssemblyInfoInputs.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.AssemblyInfo.cs
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.csproj.CoreCompileInputs.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.dll
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.pdb
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.genruntimeconfig.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\labGame\labGame\obj\Debug\netcoreapp3.1\labGame.MatchGame.resources

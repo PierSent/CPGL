@@ -8,3 +8,13 @@ D:\Sasha\Documents\Repositories\ExamPetrenko\ExamPetrenko\obj\Debug\ExamPetrenko
 D:\Sasha\Documents\Repositories\ExamPetrenko\ExamPetrenko\obj\Debug\ExamPetrenko.pdb
 D:\Sasha\Documents\Repositories\ExamPetrenko\ExamPetrenko\obj\Debug\ExamPetrenko.Form1.resources
 D:\Sasha\Documents\Repositories\ExamPetrenko\ExamPetrenko\obj\Debug\ExamPetrenko.csprojAssemblyReference.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\obj\Debug\ExamPetrenko.csprojAssemblyReference.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\obj\Debug\ExamPetrenko.Form1.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\obj\Debug\ExamPetrenko.Properties.Resources.resources
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\obj\Debug\ExamPetrenko.csproj.GenerateResource.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\obj\Debug\ExamPetrenko.csproj.CoreCompileInputs.cache
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\obj\Debug\ExamPetrenko.exe
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\obj\Debug\ExamPetrenko.pdb
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\bin\Debug\ExamPetrenko.exe.config
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\bin\Debug\ExamPetrenko.exe
+D:\Sasha\Documents\Studying\программная Инженерия\CPGL\Саша\MatchGame\ExamPetrenko\bin\Debug\ExamPetrenko.pdb

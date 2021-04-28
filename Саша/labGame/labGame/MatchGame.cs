@@ -8,14 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ExamPetrenko
+namespace labGame
 {
-    public partial class Form1 : Form
+    public partial class MatchGame : Form
     {
-        public Form1()
+        public MatchGame()
         {
             InitializeComponent();
-            
+
         }
 
         int boxSize = 50;
@@ -43,7 +43,7 @@ namespace ExamPetrenko
                         box.Name = "pictureBox1";
                         box.Size = new System.Drawing.Size(boxSize, boxSize);
                         box.TabIndex = 3;
-                        box.TabStop = false;                       
+                        box.TabStop = false;
                         panel1.Controls.Add(box);
                         box.BringToFront();
                     }
@@ -61,7 +61,7 @@ namespace ExamPetrenko
                         panel1.Controls.Add(box);
                         box.BringToFront();
                     }
-                    
+
                 }
             ////////////////////////////
             for (y = 0; y < 9; y++)
@@ -101,7 +101,7 @@ namespace ExamPetrenko
                     }
 
                 }
-            
+
             /////////////
 
         }
@@ -112,7 +112,7 @@ namespace ExamPetrenko
 
         private void button3_Click(object sender, EventArgs e) //кнопка чтобы закрыть
         {
-            Application.Exit();
+            this.Close();
         }
         protected override void WndProc(ref Message m)
         {
@@ -131,16 +131,16 @@ namespace ExamPetrenko
         int count2 = 1;
 
         private void button1_Click(object sender, EventArgs e)
-        {                  
+        {
             textBox2.Text = $"{count1++}";
-            count1= count1+1 - 1;
+            count1 = count1 + 1 - 1;
             generateBoxes();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Text = $"{count2++}";
-            count2 = count2 + 1 - 1;           
+            count2 = count2 + 1 - 1;
             generateBoxes();
 
         }
