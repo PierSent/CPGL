@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tanya\\source\\repos\\projectVS1\\labGame\\labGame\\labGame.csproj": {}
+    "C:\\Users\\Tanya\\Desktop\\3курс2сем\\программная инженерия\\CPGL\\Таня\\labGame\\labGame\\labGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tanya\\source\\repos\\projectVS1\\labGame\\labGame\\labGame.csproj": {
+    "C:\\Users\\Tanya\\Desktop\\3курс2сем\\программная инженерия\\CPGL\\Таня\\labGame\\labGame\\labGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanya\\source\\repos\\projectVS1\\labGame\\labGame\\labGame.csproj",
+        "projectUniqueName": "C:\\Users\\Tanya\\Desktop\\3курс2сем\\программная инженерия\\CPGL\\Таня\\labGame\\labGame\\labGame.csproj",
         "projectName": "labGame",
-        "projectPath": "C:\\Users\\Tanya\\source\\repos\\projectVS1\\labGame\\labGame\\labGame.csproj",
+        "projectPath": "C:\\Users\\Tanya\\Desktop\\3курс2сем\\программная инженерия\\CPGL\\Таня\\labGame\\labGame\\labGame.csproj",
         "packagesPath": "C:\\Users\\Tanya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanya\\source\\repos\\projectVS1\\labGame\\labGame\\obj\\",
+        "outputPath": "C:\\Users\\Tanya\\Desktop\\3курс2сем\\программная инженерия\\CPGL\\Таня\\labGame\\labGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -59,7 +59,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
