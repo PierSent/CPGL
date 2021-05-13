@@ -43,7 +43,7 @@ namespace labGame
 
 
         public void Init()
-        {
+        { //рандомное появление игрока и препятствий на поле 
             Virus = new Player(xP, yP);
             Random r = new Random();
             Random k = new Random();
@@ -61,7 +61,7 @@ namespace labGame
 
 
         private void update(object sender, EventArgs e)
-        {
+        {    //граничные условия для проигрыша
             if (Virus.y > minY) { 
                 Virus.isLife = false;
                 label3.Visible = true;
@@ -100,7 +100,7 @@ namespace labGame
 
         private void newObs()
         {
-          //рассчёт
+          //рассчёт, если пролетает препятствие, то + очко
             if (Obs1.x < Virus.x - yP)
             {
                 Random r = new Random();
@@ -116,6 +116,7 @@ namespace labGame
 
         private bool controlObs(Player Virus, Obstruction Obs1)
         {
+        //контроль соприкосновения игрока с препятствием
             PointF delta = new PointF();
             delta.X = (Virus.x + Virus.size / 2) - (Obs1.x + Obs1.sizeX / 2);
             delta.Y = (Virus.y + Virus.size / 2) - (Obs1.y + Obs1.sizeY / 2);
@@ -138,18 +139,22 @@ namespace labGame
             }
         }
 
+        //кнопка закрытия игры
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
         }
-
+        
+        //кнопка "начать заново"
         private void restart(object sender, EventArgs e)
         {
             this.Close();
             VirusGame VG = new VirusGame();
             VG.ShowDialog();
         }
-
+        
+        
+        //таймер игры
         int i = 0;
         private void timer2_Tick(object sender, EventArgs e)
         {
