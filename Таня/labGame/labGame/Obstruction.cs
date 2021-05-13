@@ -12,6 +12,7 @@ namespace labGame
         public Image ObstructionBitmap;
         public int sizeX, sizeY;
 
+        //первоначальное положение препятствий на поле
         public Obstruction(int x, int y, bool isRotatedImage = false)
         {
             ObstructionBitmap = Properties.Resources.Obstruction;
