@@ -14,7 +14,8 @@ namespace labGame
         public bool isLife;
         public int ochki;
 
-
+        
+        //первоначальное положение игрока на поле
         public Player(int x, int y)
         {
             VirusBitmap = Properties.Resources.virus;
