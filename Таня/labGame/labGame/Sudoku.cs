@@ -104,7 +104,7 @@ namespace labGame
             }
         }
 
-        public void SwapBlocksInColumn() // 7 8 9 и 4 5 6
+        public void SwapBlocksInColumn() // смена мест блоков в калонке
         {
             Random r = new Random();
             var block1 = r.Next(0, kolichKl);
@@ -126,7 +126,7 @@ namespace labGame
             }
         }
 
-        public void SwapBlocksInRow()
+        public void SwapBlocksInRow() // смена мест блоков в строке
         {
             Random r = new Random();
             var block1 = r.Next(0, kolichKl);
@@ -166,7 +166,7 @@ namespace labGame
             }
         }
 
-        public void SwapColumnsInBlock() 
+        public void SwapColumnsInBlock() //смена колонок в пределах блока
         {
             Random r = new Random();
             var block = r.Next(0, kolichKl);
@@ -185,7 +185,7 @@ namespace labGame
         }
 
 
-        public void transMatrix()
+        public void transMatrix() //реализация перемешивания транспорированная матрица
         {
             int[,] tmap = new int[kolichKl * kolichKl, kolichKl * kolichKl];
             for (int i = 0; i < kolichKl * kolichKl; i++)
@@ -198,7 +198,7 @@ namespace labGame
             map = tmap;
         }
 
-        public void createMap()
+        public void createMap() //создания поля судоку
         {
             for(int i=0;i< kolichKl * kolichKl; i++)
             {
@@ -217,7 +217,7 @@ namespace labGame
         }
 
 
-        public void OnCellPressed(object sender, EventArgs e)
+        public void OnCellPressed(object sender, EventArgs e) //смена числа в ячейке при нажатии на неё
         {
             Button pressedButton = sender as Button;
             string buttonText = pressedButton.Text;
@@ -235,12 +235,14 @@ namespace labGame
             }
 
         }
-
+        
+        //закрытие игры
         private void exit(object sender, EventArgs e)
         {
             this.Close();
         }
-
+        
+        // начать игру заново
         private void restart(object sender, EventArgs e)
         {
             this.Close();
@@ -257,6 +259,7 @@ namespace labGame
             //generateMap();
         }
 
+        //проверка собранного поля
         private void check(object sender, EventArgs e)
         {
             for (int i = 0; i < kolichKl * kolichKl; i++)
