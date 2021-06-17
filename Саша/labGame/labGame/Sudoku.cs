@@ -10,7 +10,7 @@ namespace labGame
 {
     public partial class Sudoku : Form
     {
-        const int kolichKl = 3;
+        public const int kolichKl = 3;
         const int sizeButton = 40;
         const int xM = 100, yM = 400;
         public int[,] map = new int[kolichKl * kolichKl, kolichKl * kolichKl];

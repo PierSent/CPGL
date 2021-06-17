@@ -18,7 +18,7 @@ namespace labGame
 
         }
 
-        int boxSize = 50;
+        public int boxSize = 50;
         int mapSize = 6;
         public void generateBoxes()
         {
